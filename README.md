@@ -1,2 +1,2 @@
 # Python
-Things in Python, like a webcrawler and such
+Some things I did in Python. 
